@@ -6,4 +6,4 @@ wait(4)
 end
 
 if CurrentValue = false then
-    script:Destroy()
+    break
