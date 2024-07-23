@@ -1,3 +1,4 @@
+-- funny how i spent like 2 hours tryna do this just for it to go unused in the main script
 local Player = game.Players.LocalPlayer
 local Character = Player.Character or Player.CharacterAdded:Wait()
 local HumanoidRootPart = Character:WaitForChild("HumanoidRootPart")
