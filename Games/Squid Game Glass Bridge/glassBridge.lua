@@ -3,6 +3,5 @@ while true do
 local win = CFrame.new(-738, 73, -549)
 player.CFrame = win
 wait(4)
-if CurrentValue = false then
     break
 end
