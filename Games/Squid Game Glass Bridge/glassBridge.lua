@@ -5,4 +5,6 @@ while true do
 	   wait(4)
 	   if glassBridge == false then
 		   break
-   end)
+   end
+end
+end)
