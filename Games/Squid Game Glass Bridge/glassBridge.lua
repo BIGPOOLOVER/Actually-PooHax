@@ -6,3 +6,4 @@ while true do
 	   if glassBridge == false then
 		   break
    end
+end
