@@ -20,7 +20,7 @@ GoBackNShi()
 Humanoid:MoveTo(Character.HumanoidRootPart.Position)
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-        Title = "Made By Hezzex",
+        Title = "Successfully got 45 Speed!",
         Text = "Enjoy!",
         Duration = 5
     })
