@@ -1,3 +1,5 @@
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/SiriusSoftwareLtd/Rayfield/main/source.lua'))()
+
 while true do
     local player = game.Players.LocalPlayer.Character.HumanoidRootPart
 local win = CFrame.new(-738, 73, -549)
