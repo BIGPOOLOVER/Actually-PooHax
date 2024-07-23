@@ -1,5 +1,4 @@
-local CurrentValue = true
-
+-- Glass Bridge Farm
 while CurrentValue = true do
      local player = game.Players.LocalPlayer.Character.HumanoidRootPart
 local win = CFrame.new(-738, 73, -549)
