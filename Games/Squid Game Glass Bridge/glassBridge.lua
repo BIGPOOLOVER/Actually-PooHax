@@ -3,7 +3,7 @@ while true do
 	   local win = CFrame.new(-738, 73, -549)
 	   player.CFrame = win
 	   task.wait(4)
-	   if glassBridge == false then
+	   if CurrentValue == false then
 		   break
    end
 end
