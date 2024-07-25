@@ -1,5 +1,7 @@
+local Value = true
+
 while true do
-	if CurrentValue == false then
+	if Default == false then
 		break
 	else
 		local player = game.Players.LocalPlayer.Character.HumanoidRootPart
