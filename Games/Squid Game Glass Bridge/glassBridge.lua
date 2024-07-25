@@ -1,4 +1,4 @@
-local Value = true
+local Value = false
 
 while true do
 	if Default == false then
