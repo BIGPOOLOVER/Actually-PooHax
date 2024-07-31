@@ -10,13 +10,13 @@
 
 -- test 
 
-local CurrentValue = true
+CurrentValue = true
 
 while wait(4) do
     if CurrentValue then
         print('hi')
-    else
-        print('shutting off script')
+    elseif CurrentValue = false then
+      print('shutting off script')
         break
     end
 end
